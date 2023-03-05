@@ -1,0 +1,8 @@
+title: Sullivan's BLOG
+subtitle: 琐碎,定格,在南方
+author: Sullivan
+language: zh-CN
+
+permalink: :year/:month/:day/:title.html
+
+theme: hacker

@@ -1,0 +1,20 @@
+menu:
+  Home: /
+  Archives: /archives
+  About: /about.html
+
+googleTrackId:
+
+giscus: true
+data_repo: sullivan986/sullivan986.github.io
+data_repo_id: R_kgDOJFK9rA
+data_category: Announcements
+data_category_id: DIC_kwDOJFK9rM4CUqH
+data_mapping: og:title
+data_strict: 1
+data_reactions_enabled: 1
+data_emit_metadata: 0
+data_input_position: top
+data_theme: preferred_color_scheme
+data_lang: zh-CN
+data_loading:
